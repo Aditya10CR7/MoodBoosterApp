@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "893545877137",
+    "project_id": "mood-booster-app",
+    "storage_bucket": "mood-booster-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893545877137:android:5c04820193013d2f557930",
+        "android_client_info": {
+          "package_name": "com.galaxies.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893545877137-uadg6lbfhbs1d9m7o9us8quhm1i2ins6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdo9YwE8xT9zEtMdU4tIqPGZXILr6RIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893545877137-uadg6lbfhbs1d9m7o9us8quhm1i2ins6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893545877137-9t6vjl31p2vgssa7ctn73vj6irf94vlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galaxies.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
